@@ -18,9 +18,9 @@ To study mode characteristics of reflex klystron and hence to determine mode num
     
 **Experimental Setup:**
 
-<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/eed0a769-b540-4330-b4a0-7fd63fa28ed4" />
+<img width="840" height="274" alt="image" src="https://github.com/user-attachments/assets/50bc1b66-06e3-436e-b0b5-677b57f2ae34" />
 
-<img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/196f94fb-5b64-4092-8463-a17e7fce1548" />
+<img width="529" height="189" alt="image" src="https://github.com/user-attachments/assets/64a03024-272c-4fd2-9c85-535810320498" />
 
 **Theory**
 
@@ -55,32 +55,42 @@ Mechanical tuning depends on changing the width of cavity i.e. the effective I c
 Electronic tuning refers to change in repeller voltage causing a change in output frequency. However, the power output also changes. A measure of electronic tuning is given by ‘Electronic tuning Sensitivity (ETS)’. This can be determined by taking the slope of the frequency characteristic of the modes.
 
 **Observation: ( Include your own Table relevant to the Experiment)**
-(Paste your Tabulation)
 
-**CALCULATIONS:**
+<img width="772" height="299" alt="image" src="https://github.com/user-attachments/assets/f3246f1c-6f26-4db0-bff5-b3b9662647c5" />
 
-1.	Tuning range of 1 ¾ mode is Po = 10(x/20) watts, where x is dB reading in VSWR meter.(Include sample calculations/Display/plot/typical graph)
-2.	By taking the values of repeller voltage we can calculate the the mode number N1 = n + ¾	 with V2 = N2 = (n +1) + ¾	with V1 = N1 & N2 are respective modes numbers.
-3.	ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
+<img width="987" height="1280" alt="image" src="https://github.com/user-attachments/assets/c40a3a46-2c0d-4b52-92ac-adbbb78da52c" />
 
-**Precautions:**
 
-4.	Check the connections before switching on the kit.
-5.	Keep all the knobs in minimum position before going to switch ‘ON’ the powersupply of VSWR / Klystron power supplies.
-6.	Note: For klystron power supply “HT” should be ‘OFF’ before switching ‘ON’the main supply.
-7.	Beam knob should be completely in anticlockwise direction and repeller voltageknob should be completely clockwise direction.
-8.	Switch on the main supply and give some warm up time to get current / accuratereading.
-9.	Connections should be done properly.
-10.	Don’t see directly inside the waveguide.
-11.	After the completion of experiment, before leaving the bench switch off themains keep all the knobs in minimum position (i.e.) as those are in rule 2.
-12.	If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
-13.	Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
+CALCULATIONS:
 
-    **Result:**
+Tuning range of 1 ¾ mode is Po = 10(x/20) watts, where x is dB reading in VSWR meter.(Include sample calculations/Display/plot/typical graph)
+By taking the values of repeller voltage we can calculate the the mode number N1 = n + ¾ with V2 = N2 = (n +1) + ¾ with V1 = N1 & N2 are respective modes numbers.
+ETS (Electronic Tuning Sensitivity) = f2 - f1 / V2 – V1 MHz / V
+Precautions:
+
+Check the connections before switching on the kit.
+
+Keep all the knobs in minimum position before going to switch ‘ON’ the powersupply of VSWR / Klystron power supplies.
+
+Note: For klystron power supply “HT” should be ‘OFF’ before switching ‘ON’the main supply.
+
+Beam knob should be completely in anticlockwise direction and repeller voltageknob should be completely clockwise direction.
+
+Switch on the main supply and give some warm up time to get current / accuratereading.
+
+Connections should be done properly.
+
+Don’t see directly inside the waveguide.
+
+After the completion of experiment, before leaving the bench switch off themains keep all the knobs in minimum position (i.e.) as those are in rule 2.
+
+If the main supply failed in the middle of the experiment, come to 1st condition (i.e.)keep all the knobs in minimum positions and switch off main switches.
+
+Don’t increase the repeller voltage more than -70V (i.e.) it should be between -70V to 270V.
+
+**Result:**
    	
-			
-			
-			
+Thus,the experiment is studied and verified
 			
 			
 
